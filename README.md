@@ -19,3 +19,18 @@ https://bit.ly/3RhZ76R
 
 Download link (latest and x64 only):
 https://bit.ly/3N5LKnA
+
+# Nese 7
+Released: January 4, 2024
+
+Download link (latest for professional users only 64-bit): https://bit.ly/3TNo3of
+
+Download link (latest for Ultimate users only 64-bit): https://bit.ly/48nsniE
+
+
+# Nese 9
+Released: January 30, 2024
+
+Download link (latest for Pro users only 64-bit): https://bit.ly/3ukB6TR
+
+Download link (latest for Home users only 64-bit): https://bit.ly/3SE9b9V
