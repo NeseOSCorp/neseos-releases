@@ -11,6 +11,12 @@ Released: July 3, 2023
 
 Download link (24H13 and x86 only): https://bit.ly/3HLDJBt
 
+# Nese Server 2003
+Released: September 2, 2023
+
+Download link (latest soon 👀):
+https://bit.ly/3Ss8HTV
+
 # Nese Vista
 Released: August 13, 2023 
 
