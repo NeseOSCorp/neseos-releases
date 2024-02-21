@@ -29,7 +29,7 @@ https://bit.ly/3N5LKnA
 # Nese 7
 Released: January 4, 2024
 
-Download link (latest for Professional users only 64-bit): https://bit.ly/3OGuoyC
+Download link (latest for Professional users only 64-bit): https://bit.ly/3T1ZfrX
 
 Download link (latest for Ultimate users only 64-bit): https://bit.ly/48nsniE
 
