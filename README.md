@@ -11,7 +11,7 @@ Released: July 3, 2023
 
 Download link (24H13 and x86 only): https://bit.ly/3HLDJBt
 
-Download link (ESU for 64-bit and 32-bit users only (not including Home Edition) and discord license support only):
+Download link (ESU (ESU means Extended Security Updates) for 64-bit and 32-bit users only (not including Home Edition) and discord license support only):
 https://go.neseos.42web.io/discord
 
 # Nese Server 2003
