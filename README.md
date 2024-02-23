@@ -34,6 +34,9 @@ Released: January 4, 2024
 
 Download link (latest for Professional users only 64-bit): https://bit.ly/3T1ZfrX
 
+Download link (for 24W4 Update 1 users only 64-bit):
+https://bit.ly/3UQIaT1
+
 Download link (latest for Ultimate users only 64-bit): https://bit.ly/48nsniE
 
 Download link (latest for Enterprise users only 64-bit and discord license support only): https://go.neseos.42web.io/discord
