@@ -37,8 +37,8 @@ Released: January 4, 2024
 
 Download link (latest for Professional users only 64-bit): https://bit.ly/49UlR3k
 
-Download link (for 24W4 Update 1 users only 64-bit):
-https://bit.ly/3UQIaT1
+Download link (for 25W0 Update 1 users only 64-bit):
+soon
 
 Download link (latest for Ultimate users only 64-bit): https://bit.ly/48nsniE
 
