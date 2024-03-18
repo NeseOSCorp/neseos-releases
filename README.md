@@ -17,8 +17,8 @@ https://go.neseos.42web.io/discord
 # Nese Server 2003
 Released: September 2, 2023
 
-Download link (latest soon 👀):
-https://bit.ly/3Ss8HTV
+Download link (latest):
+https://bit.ly/4ahl7Fx
 
 # Nese Vista
 Released: August 13, 2023 
