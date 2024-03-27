@@ -4,12 +4,12 @@ NeseOS releases is Nese-Based operating systems releases and download links.
 # Nese 2000
 Released: July 30, 2023
 
-Download link (latest): https://bit.ly/480KZ6Z
+Download link (latest): ended of support (EOS)
 
 # Nese XP
 Released: July 3, 2023
 
-Download link (24H13 and x86 only): https://bit.ly/3HLDJBt
+Download link (24H13 and x86 only): ended of support (EOS)
 
 Download link (ESU (ESU means Extended Security Updates) for 64-bit and 32-bit users only (not including Home Edition) and discord license support only):
 https://go.neseos.42web.io/discord
