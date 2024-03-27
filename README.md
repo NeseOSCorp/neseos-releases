@@ -37,6 +37,9 @@ Released: January 4, 2024
 
 Download link (latest for Professional users only 64-bit): https://bit.ly/3IDDSqV
 
+Download link (latest for Professional users only 64-bit and Turkish language): 
+https://bit.ly/3xayLfB
+
 Download link (for 25W0 Update 1 users only 64-bit):
 soon
 
