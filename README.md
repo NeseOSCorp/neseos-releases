@@ -11,7 +11,7 @@ Released: July 3, 2023
 
 Download link (24H13 and x86 only): ended of support (EOS)
 
-Download link (26H2, Home edition, service pack 3 (SP3) and x86 only); https://github.com/NeseOSCorporation/neseos-releases/releases/download/v5.2.nese.xp.home.26h2.x86/en_nese_xp_home_edition_x86_dvd_26H2.iso
+Download link (26H2, Home edition, service pack 3 (SP3) and x86 only); https://bit.ly/4aClvhX
 
 Download link (ESU (ESU means Extended Security Updates) for 64-bit and 32-bit users only (not including Home Edition) and discord license support only):
 https://go.neseos.42web.io/discord
