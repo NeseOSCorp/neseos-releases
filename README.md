@@ -57,3 +57,8 @@ Download link (latest for Pro users only 64-bit): https://bit.ly/3ukB6TR
 
 Download link (latest for Home users only 64-bit): https://bit.ly/3SE9b9V
 
+# Nese 10 (BETA)
+Released: April 10, 2024
+
+Download link (latest for Pro users only 64-bit): https://bit.ly/3TMAdfE
+
