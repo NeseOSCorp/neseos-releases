@@ -37,7 +37,7 @@ https://bit.ly/3OWP8Ca
 # Nese 7
 Released: January 4, 2024
 
-Download link (latest for Professional users only 64-bit): https://bit.ly/3vGbq4S
+Download link (latest for Professional users only 64-bit): https://bit.ly/3y3hiWL
 
 Download link (latest for Professional users only 64-bit and Turkish language): 
 https://bit.ly/3xayLfB
@@ -48,7 +48,6 @@ soon
 Download link (latest for Ultimate users only 64-bit): https://bit.ly/48nsniE
 
 Download link (latest for Enterprise users only 64-bit and discord license support only): https://go.neseos.42web.io/discord
-
 
 # Nese 9
 Released: January 30, 2024
@@ -61,4 +60,10 @@ Download link (latest for Home users only 64-bit): https://bit.ly/3SE9b9V
 Released: April 10, 2024
 
 Download link (latest for Pro users only 64-bit): https://bit.ly/3TMAdfE
+
+# Nese Server 2025 (BETA)
+Released: April 27, 2024
+
+Download link (latest for Standard users only 64-bit): https://go.neseos.42web.io/download/nese-server-2025
+
 
