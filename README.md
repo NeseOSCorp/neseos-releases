@@ -34,6 +34,15 @@ https://bit.ly/3N5LKnA
 Download link (latest for Business edition and x64 only):
 https://bit.ly/3OWP8Ca
 
+# Nese Server 2008 R2
+Released: December 9, 2023
+
+Download link (latest and x64 only):
+https://bit.ly/3Tg5vwG
+
+Datacenter version coming soon 👀 
+
+
 # Nese 7
 Released: January 4, 2024
 
