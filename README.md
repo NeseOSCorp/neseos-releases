@@ -40,7 +40,7 @@ Released: December 9, 2023
 Download link (latest and x64 only):
 https://bit.ly/3Tg5vwG
 
-Datacenter version coming soon 👀 
+Datacenter version: coming soon 👀 
 
 
 # Nese 7
