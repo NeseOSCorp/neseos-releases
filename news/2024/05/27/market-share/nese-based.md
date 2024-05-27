@@ -23,6 +23,7 @@ Nese Server 2025: 70%
 Nese Server 2008 R2: 76%
 
 **SERVER OS:**
+
 Nese Server 2025: 70%
 
 Nese Server 2008 R2: 76%
