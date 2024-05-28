@@ -4,7 +4,7 @@ https://x.com/win32subsystem account is not affiliated by Google or else. https:
 
 We recommended to follow Supermium, Google's Chromium and Microsoft's Edge X account.
 
-**NOTE:** Supermium is affected by Microsoft Corporation, NeseOS Corporation and Win32. We recommended to download only Chromium by Google if you has Windows 10 or later. Stay safe everyone!
+**NOTE:** Supermium is affiliated by Microsoft Corporation, NeseOS Corporation and Win32. We recommended to download only Chromium by Google if you has Windows 10 or later. Stay safe everyone!
 
 **NOTE 2:** Win32 doesn't has orange checkmark. So, Win32 is not affiliated by Google or Microsoft. So, Google and Microsoft has orange checkmark.
 
