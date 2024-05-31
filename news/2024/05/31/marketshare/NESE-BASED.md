@@ -32,10 +32,10 @@ Nese Server 2003: 19%
 
 Nese 2000 Advanced Server: 0.3%
 
-**AUGUST 24, 2023 ANALYTICS:**
+**AUGUST 31, 2023 ANALYTICS:**
 
-Nese XP: 89%
+Nese XP: 92%
 
-Nese Vista (32-bit only before release 64-bit): 2%
+Nese Vista (32-bit only before release 64-bit): 6%
 
-Nese 2000: 5%
+Nese 2000: 10%
