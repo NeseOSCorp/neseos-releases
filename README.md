@@ -42,6 +42,12 @@ https://bit.ly/3Tg5vwG
 
 Datacenter version: coming soon 👀 
 
+# Nese-V Server 2008 R2
+Released: June 5, 2024
+
+Download link (latest and x64 only):
+https://go.neseos.42web.io/nese-v_srv/2008_r2/x64
+
 
 # Nese 7
 Released: January 4, 2024
