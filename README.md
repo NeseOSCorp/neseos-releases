@@ -26,7 +26,7 @@ https://bit.ly/4ahl7Fx
 Released: August 13, 2023 
 
 Download link (latest):
-https://bit.ly/3RhZ76R
+https://bit.ly/3zq28eZ
 
 Download link (latest and x64 only):
 https://bit.ly/3N5LKnA
