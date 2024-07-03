@@ -20,7 +20,7 @@ https://go.neseos.42web.io/discord
 Released: September 2, 2023
 
 Download link (latest):
-https://bit.ly/4ahl7Fx
+https://bit.ly/3zq61Au
 
 # Nese Vista
 Released: August 13, 2023 
