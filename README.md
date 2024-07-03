@@ -52,10 +52,10 @@ https://go.neseos.42web.io/nese-v_srv/2008_r2/x64
 # Nese 7
 Released: January 4, 2024
 
-Download link (latest for Professional users only 64-bit): https://bit.ly/45RUUw8
+Download link (latest for Professional users only 64-bit): https://bit.ly/45RUUw8   
 
 Download link (latest for Professional users only 64-bit and Turkish language): 
-https://bit.ly/3xayLfB
+https://bit.ly/3xayLfB   
 
 Download link (for 25W0 Update 1 users only 64-bit):
 soon
